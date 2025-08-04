@@ -1,6 +1,6 @@
 <!-- banner.png -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gracy-7/Data--analyst-portfolio/main/banner.png" alt="Gracy Manisha Suna - Data Analyst Banner" />
+  <img src="https://raw.githubusercontent.com/Gracy-7/Gracy-7-Data-analyst-portfolio/main/banner.png" alt="Gracy Manisha Suna - Data Analyst Banner" />
 </p>
 
 <!-- Intro -->
